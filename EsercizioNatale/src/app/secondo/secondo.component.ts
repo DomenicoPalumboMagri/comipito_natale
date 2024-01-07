@@ -9,10 +9,10 @@ export class SecondoComponent {
  
   title = 'compito';
   CANTANTI = [
-    {id: 1, name:'ghali'},
-    {id: 2, name:'Tedua'},
-    {id: 5, name:'Lazza'},
-    {id: 3, name:'Plazza'},
-    {id: 4, name:'Gemitaiz'}
+    {id: 1, name:'ghali', Album:'Album, Lunga Vita a Sto, DNA, Sensazione Ultra, PIZZA KEBAB Vol.1'},
+    {id: 2, name:'Tedua', Album:'Orange County California, Mowgli, Vita Vera'},
+    {id: 5, name:'Lazza', Album:'Zzala, Re Mida, J, SIRIO, '},
+    {id: 3, name:'Plazza', Album:'20, PLAZZA, Nato Per Questo'},
+    {id: 4, name:'Gemitaiz', Album:'Nonostante Tutto, QVC9, QVC8, Scatola Nera'}
   ];
 }
